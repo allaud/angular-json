@@ -1,7 +1,8 @@
 # AngularJS directive for editing JSON data
 
-    **Directive live example in ./example**
+Directive live example in ./example
 
-    ```html
+
+## To run example
     cd example && python -m SimpleHTTPServer
-    ```
+
